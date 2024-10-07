@@ -90,7 +90,8 @@ local_settings.py
 env
 db.sqlite3
 db.sqlite
-
+postgres
+neo4j
 hirkano/static
 WorkShop_OnlineShop/media
 BookShop/media
